@@ -33,3 +33,5 @@ D:\Sandbox\WpfModernUi\WpfModernUi\bin\Debug\LiveCharts.pdb
 D:\Sandbox\WpfModernUi\WpfModernUi\bin\Debug\LiveCharts.xml
 D:\Sandbox\WpfModernUi\WpfModernUi\bin\Debug\LiveCharts.Wpf.pdb
 D:\Sandbox\WpfModernUi\WpfModernUi\bin\Debug\LiveCharts.Wpf.xml
+D:\Sandbox\WpfModernUi\WpfModernUi\obj\Debug\UserControls\Country.baml
+D:\Sandbox\WpfModernUi\WpfModernUi\obj\Debug\UserControls\Country.g.cs
