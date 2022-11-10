@@ -23,5 +23,10 @@ namespace WpfModernUi
                 this.DragMove();
             }
         }
+
+        private void MenuButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }
